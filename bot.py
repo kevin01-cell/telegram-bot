@@ -8,7 +8,7 @@ import requests
 # ========================
 # ENV VARIABLES (set these in Render dashboard)
 # ========================
-TOKEN = os.getenv("8311436073:AAHdcseKsVCew7DqW0emcDeFNKYEe9SFkOU")  # Telegram bot token
+TOKEN = os.getenv("BOT_TOKEN")  # Telegram bot token
 PAYHERO_BUSINESS_ID = os.getenv("1206")  # Your PayHero business ID
 PAYHERO_AUTH = os.getenv("Basic XleABExPtMle7JLebns4:BPwcBFbVf5b4ZFr0dslCCO3PnfCMZeL6IgwxJg1m")  # Base64 auth string ("Basic dGVzdDpzZWNyZXQ=")
 
