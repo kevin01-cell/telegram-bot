@@ -19,7 +19,7 @@ from telegram.ext import (
 )
 
 # ---------------- CONFIG ----------------
-TELEGRAM_TOKEN = os.getenv("8311436073:AAHdcseKsVCew7DqW0emcDeFNKYEe9SFkOU")
+TELEGRAM_TOKEN = os.getenv("8311436073:AAH_90W-fdG_d2bv96Qpuoe7ax4bw5QY1Z8")
 PAYHERO_API_KEY = os.getenv("https://app.payhero.co.ke/lipwa/1206")
 PAYHERO_BASE_URL = "https://payhero.co.ke/api/v2/payments"  # check latest docs
 MOVIE_FILE_ID = "<https://t.me/c/1805614988/17120>"
